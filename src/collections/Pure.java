@@ -11,6 +11,8 @@ public class Pure {
        list.add("Jegede");
        list.add("Oke Tobi");
 
+       list.remove(0);
+
         System.out.println( list);
         for(String vales:list) {
             System.out.println(vales);

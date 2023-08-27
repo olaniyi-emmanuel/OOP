@@ -9,6 +9,7 @@ public class Pawn {
 
         LinkedHashMap<String, Integer> numbers = new LinkedHashMap<String, Integer>(evenNumbers);
         numbers.put("Six", 6);
+        numbers.put("Eight", 8);
         System.out.println(numbers);
     }
 }

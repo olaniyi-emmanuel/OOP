@@ -1,0 +1,20 @@
+import java.util.EnumMap;
+
+public class Yawn {
+
+    enum Size {
+        SMALL, MEDIUM,LARGE, EXTRALARGE
+    }
+    public static void main(String[] args) {
+        EnumMap<Size, Integer> sizes = new EnumMap<Size, Integer>(Size.class);
+        sizes.put(Size.SMALL, 20);
+        sizes.put(Size.MEDIUM, 30);
+        sizes.put(Size.LARGE, 40);
+        sizes.put(Size.EXTRALARGE, 50);
+
+        System.out.println(sizes.keySet());
+        System.out.println(sizes.values());
+        System.out.println(sizes.entrySet());
+        System.out.println(Size.MEDIUM);
+    }
+}

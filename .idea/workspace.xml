@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a0b940d-81a9-4882-a513-c31d0555e3bb" name="Changes" comment="Day 17">
-      <change afterPath="$PROJECT_DIR$/Horn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pawn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trunk.java" afterDir="false" />
+    <list default="true" id="4a0b940d-81a9-4882-a513-c31d0555e3bb" name="Changes" comment="Day 17_1">
+      <change afterPath="$PROJECT_DIR$/Hint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Burn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stacks/Time.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pawn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693101586892</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day 17_1">
+      <created>1693104685551</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693104685551</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +132,7 @@
     <MESSAGE value="Day 15_1" />
     <MESSAGE value="Day 16" />
     <MESSAGE value="Day 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 17" />
+    <MESSAGE value="Day 17_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 17_1" />
   </component>
 </project>

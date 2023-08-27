@@ -20,10 +20,7 @@ public class KNit {
     public static void main(String[] args) {
         String str = "abcd";
 
-        StringReserevd reverser = new StringReverser();
-        String result = reverser.reverse(str);
-        System.out.println('Reserved' + result);
-        System.out.println(reverser);
+
     }
 
 }

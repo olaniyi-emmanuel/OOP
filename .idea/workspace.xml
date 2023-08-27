@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a0b940d-81a9-4882-a513-c31d0555e3bb" name="Changes" comment="Day 15_1">
-      <change afterPath="$PROJECT_DIR$/src/Drone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stacks/KNit.java" afterDir="false" />
+    <list default="true" id="4a0b940d-81a9-4882-a513-c31d0555e3bb" name="Changes" comment="Day 16">
+      <change afterPath="$PROJECT_DIR$/src/Clear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +41,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Clear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clear" />
+      <module name="data" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Clear" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692980879414</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 16">
+      <created>1693088357396</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693088357396</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 15" />
     <MESSAGE value="Day 15_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 15_1" />
+    <MESSAGE value="Day 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 16" />
   </component>
 </project>
